@@ -14,3 +14,20 @@ Possible Research Questions for Option 1.1:
 - Is an estimation of the human interlocutor's personality and emotional constitution crucial for being useful to them? 
 - What is it about the phrasing of therapists' or choaches' responses that worksor fails? What do they statistically have in common, respectively? 
 - From what part of an interlocutors' talk can their stiuation and constitution be derived, and is that part something that is preserved in the format of chatting in writing? 
+
+## Title
+
+## Abstract
+A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+## Research questions
+A list of research questions you would like to address during the project. 
+
+## Dataset
+List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
+## A tentative list of milestones for the project
+Add here a sketch of your planning for the coming weeks. Please mention who does what.
+
+## Documentation
+This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
