@@ -6,7 +6,7 @@
  - Option 1.2: point of contact that provides information on abortion (in many places the doctors are not allowed to 'advertise' their abortion services, leading to ill informed choices, other entities are allowed to do so though, so miming a person to talk to could be useful)
  - Option 1.3: 'woke' service bot answering questions you may not want to ask human comrads for people who are toying with leftist thoughts and trying or understand identity politics lol
 
-1. A Media Monitor
+2. A Media Monitor
 - Option 2.1: opinion and sentiment tracking over time and platforms online on a topic like climate change. also plotting more specific results like how the language used changed, developing vocabularies over time, etc.
 
 Possible Research Questions for Option 1.1: 
