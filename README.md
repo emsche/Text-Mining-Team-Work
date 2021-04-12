@@ -9,5 +9,5 @@ A Chat Bot
 Possible Research Questions Option 1: 
 - In how far is it possible to generate empathetic responses via probability? 
 - Is an estimation of the human interlocutor's personality and emotional constitution crucial for being useful to them? 
-- What is it about the phrasing of therapists' or choaches' responses that works? What do they have in common, statistically? 
+- What is it about the phrasing of therapists' or choaches' responses that worksor fails? What do they statistically have in common, respectively? 
 - From what part of an interlocutors' talk can their stiuation and constitution be derived, and is that part something that is preserved in the format of chatting in writing? 
