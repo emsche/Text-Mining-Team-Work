@@ -33,12 +33,15 @@ machine learning of probabilities for tags;
 writing and tagging creative answers implementing the mantras (kinaida and emma); 
 writing a report (kinaida and emma);
 making a powerpoint (kinaida and emma);
-presenting it (kinaida and emma);
+presenting it (kinaida and emma)
 
 
 Sun April 25: preprocessing pipeline, conversations written
+
 Sun May 2: 
+
 Sun May 9:
+
 Sun May 16: Project Finished
 
 ## Documentation
