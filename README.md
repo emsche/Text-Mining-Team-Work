@@ -1,8 +1,5 @@
 # Text Mining Team Work
 
-(To Giovanni)
-We would like to know your opinion about whether you think it is feasible to create a simple version of this chatbot within the time frame, given the the practical and technical complexity of such a task. If so, we will update the information about the division of labour and will research into information that will be helpful for such a task, as soon as possible.
-
 ## Abstract - Idea Overview
 
 ### A Chat Bot:
