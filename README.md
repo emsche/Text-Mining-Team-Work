@@ -9,11 +9,6 @@ We have written down several ideas, but are leaning towards option 1.1. We would
 
 1. A Chat Bot
  - Option 1.1 (preferred idea): Sobriety coach that helps with addiction issues. A chatbot can deliver this service to a larger population, without the constraints that come with human contact. The availability of a chatbot can help when someone is dealing with immediate cravings or impulses, but does not have anyone to turn to or to help remind them of the goal they had in mind. Would be super interesting to gage what types of responses and phrases can be helpful or harmful in what situations. Finding a good corpus could help with bridging our lack of knowledge of behavioral therapy and psychology, but it may be hard to find because of data protection.
- - Option 1.2: Point of contact that provides information on abortion (in many places the doctors are not allowed to 'advertise' their abortion services, leading to ill informed choices, other entities are allowed to do so though, so miming a person to talk to could be useful).
- - Option 1.3: 'Woke' service bot answering questions you may not want to ask human comrads. It would be helpful, for example, for people who are toying with leftist thoughts and trying or understand identity politics.
-
-2. A Media Monitor
-- Option 2.1: Opinion and sentiment tracking over time and platforms online, on a topic like climate change. Also plotting more specific results, like how the language used changed, developing vocabularies over time, etc.
 
 ## Research questions
 
