@@ -10,13 +10,6 @@ Sobriety coach that helps with alcohol addiction: recovery, coming clean or stay
 The chatbot will be based on the SMART recovery technique, which emphasizes self empowerment, rather than powerlessness in facing the addiction, which has to be overcome by turning to a higher power (Horvath, Yeterian 108-109). Four main objectives are explit in SMART recovery, namely -	Building and Maintaining Motivation, -	Coping with Urges, -	Managing Thoughts, Feelings, and Behaviors, and -	Living a Balanced Life (Horvath and Yeterian 110). 
 The chatbot will be an intent based chatbot. The SMART objectives can be added to the intent tags, as well as subtags that are specific to sobriety coaching or counselling.
 
-## Sobriety Coach Chat Bot
-
-## Abstract - Idea overview
-
-Sobriety coach that helps with addiction issues. A chatbot can deliver this service to a larger population, without the constraints that come with human contact. The availability of a chatbot can help when someone is dealing with immediate cravings or impulses, but does not have anyone to turn to or to help remind them of the goal they had in mind. Would be super interesting to gage what types of responses and phrases can be helpful or harmful in what situations. Finding a good corpus could help with bridging our lack of knowledge of behavioral therapy and psychology, but it may be hard to find because of data protection.
->>>>>>> main
-
 ## Research questions
 
 - How well can a database of converation annotated for intents be expanded to distinguish mental-health-based intents? In many circumstances, patients don't necessarily know themselves what they are communicating, in need of, or wanting at the moment. In how far can a chatbot (the machine learning behind it) predict this successfully?
