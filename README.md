@@ -26,10 +26,13 @@ https://www.alcoholrehabguide.org/blog/5-best-recovery-mantras/
 tasks: 
 finding a database of conversations annotated/tagged for intents
 adding our own addiction specific intents
-adding our own addiction specific conversational pieces by writing and tagging them ourselves with reference to online forums or finding a database, hopefully
+adding our own addiction specific conversational pieces by writing and tagging them ourselves with reference to online forums or finding a database, hopefully  (kinaida and emma)
 devising and coding contexts (time of the year, time of day, what's been said before, holidays coming up,...) and states (unchanging information about the patient: time spend sober, birthday/age, likes/dislikes,...)
 machine learning of probabilities for tags
-writing and tagging creative answers implementing the mantras
+writing and tagging creative answers implementing the mantras (kinaida and emma) 
+writing a report (kinaida and emma)
+making a powerpoint (kinaida and emma)
+presenting it (kinaida and emma)
 (mention who does what)
 
 Sun April 25:
