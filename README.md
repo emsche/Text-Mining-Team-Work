@@ -1,14 +1,11 @@
 # Text Mining Team Work
-(To Giovanni)
 
-We have written down several ideas, but are leaning towards option 1.1. We would like to know your opinion about whether you think it is feasible to create a simple version of this chatbot within the time frame, given the the practical and technical complexity of such a task. If so, we will update the information about the division of labour and will research into information that will be helpful for such a task, as soon as possible.
 
-## Chat Bot or Media Monitor
+## Sobriety Coach Chat Bot
 
 ## Abstract - Idea overview
 
-1. A Chat Bot
- - Option 1.1 (preferred idea): Sobriety coach that helps with addiction issues. A chatbot can deliver this service to a larger population, without the constraints that come with human contact. The availability of a chatbot can help when someone is dealing with immediate cravings or impulses, but does not have anyone to turn to or to help remind them of the goal they had in mind. Would be super interesting to gage what types of responses and phrases can be helpful or harmful in what situations. Finding a good corpus could help with bridging our lack of knowledge of behavioral therapy and psychology, but it may be hard to find because of data protection.
+Sobriety coach that helps with addiction issues. A chatbot can deliver this service to a larger population, without the constraints that come with human contact. The availability of a chatbot can help when someone is dealing with immediate cravings or impulses, but does not have anyone to turn to or to help remind them of the goal they had in mind. Would be super interesting to gage what types of responses and phrases can be helpful or harmful in what situations. Finding a good corpus could help with bridging our lack of knowledge of behavioral therapy and psychology, but it may be hard to find because of data protection.
 
 ## Research questions
 
