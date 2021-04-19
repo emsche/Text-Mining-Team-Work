@@ -1,32 +1,41 @@
 # Text Mining Team Work
 (To Giovanni)
 
-We have written down several ideas, but are leaning towards option 1.1. We would like to know your opinion about whether you think it is feasible to create a simple version of this chatbot within the time frame, given the the practical and technical complexity of such a task. If so, we will update the information about the division of labour and will research into information that will be helpful for such a task, as soon as possible.
+We would like to know your opinion about whether you think it is feasible to create a simple version of this chatbot within the time frame, given the the practical and technical complexity of such a task. If so, we will update the information about the division of labour and will research into information that will be helpful for such a task, as soon as possible.
 
-## Chat Bot or Media Monitor
+## Abstract - Idea Overview
 
-## Abstract - Idea overview
-
-1. A Chat Bot
- - Option 1.1 (preferred idea): Sobriety coach that helps with addiction issues. A chatbot can deliver this service to a larger population, without the constraints that come with human contact. The availability of a chatbot can help when someone is dealing with immediate cravings or impulses, but does not have anyone to turn to or to help remind them of the goal they had in mind. Would be super interesting to gage what types of responses and phrases can be helpful or harmful in what situations. Finding a good corpus could help with bridging our lack of knowledge of behavioral therapy and psychology, but it may be hard to find because of data protection.
+# A Chat Bot:
+Sobriety coach that helps with alcohol addiction: recovery, coming clean or staying clean. A chatbot can deliver this service to a larger population, without the constraints that come with human contact or group memberships. The availability of a chatbot can help when someone is dealing with immediate cravings or impulses, but does not have anyone to turn to or to help remind them of the goal they had in mind.
+The chatbot will be based on the SMART recovery technique, which emphasizes self empowerment, rather than powerlessness in facing the addiction, which has to be overcome by turning to a higher power (Horvath, Yeterian 108-109). Four main objectives are explit in SMART recovery, namely -	Building and Maintaining Motivation, -	Coping with Urges, -	Managing Thoughts, Feelings, and Behaviors, and -	Living a Balanced Life (Horvath and Yeterian 110). 
+The chatbot will be an intent based chatbot. The SMART objectives can be added to the intent tags, as well as subtags that are specific to sobriety coaching or counselling.
 
 ## Research questions
 
-Possible Research Questions for Option 1.1: 
-- In how far is it possible to generate empathetic responses via probability? 
-- Is an estimation of the human interlocutor's personality and emotional constitution crucial for being useful to them? 
-- What is it about the phrasing of therapists' or choaches' responses that worksor fails? What do they statistically have in common, respectively? 
-- From what part of an interlocutors' talk can their stiuation and constitution be derived, and is that part something that is preserved in the format of chatting in writing? 
+- How well can a database of converation annotated for intents be expanded to distinguish mental-health-based intents? In many circumstances, patients don't necessarily know themselves what they are communicating, in need of, or wanting at the moment. In how far can a chatbot (the machine learning behind it) predict this successfully?
+- Can a chatbot be (perceived as) sensitive to the balance between not telling people what to do but still providing useful advice, between being supportive and being intrusive? Can a chatbot be successful at motivational interviewing?
 
-## Dataset
-(List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.)
-
-To be updated after coming to a decision.
+## Datasets
+Mantras suggested online: 
+https://www.springgardensrecovery.com/7-mantras-to-get-you-through-your-first-weeks-of-sobriety/ (first week)
+https://www.spiritualityhealth.com/articles/2019/12/29/15-mantras-for-sobriety
+https://www.waysidehouse.net/10-positive-mantras-get-started-sobriety/ (everyday repetition)
+https://www.alcoholrehabguide.org/blog/5-best-recovery-mantras/
 
 ## A tentative list of milestones for the project
-(Add here a sketch of your planning for the coming weeks. Please mention who does what.)
+tasks: 
+finding a database of conversations annotated/tagged for intents
+adding our own addiction specific intents
+adding our own addiction specific conversational pieces (from another database, hopefully)
+devising and coding contexts (time of the year, time of day, what's been said before, holidays coming up,...) and states (unchanging information about the patient: time spend sober, birthday/age, likes/dislikes,...)
+machine learning of probabilities for tags
+writing and tagging creative answers implementing the mantras
+(mention who does what)
 
-To be updated after coming to a decision.
+Sun April 25:
+Sun May 2: 
+Sun May 9:
+Sun May 16: Project Finished
 
 ## Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
