@@ -20,17 +20,17 @@ https://www.waysidehouse.net/10-positive-mantras-get-started-sobriety/ (everyday
 https://www.alcoholrehabguide.org/blog/5-best-recovery-mantras/
 
 ## A tentative list of milestones for the project
-tasks: 
-finding a database of conversations annotating it for intents (emma);
-adding our own addiction specific intents;
-adding our own addiction specific conversational pieces by writing and tagging them ourselves with reference to online forums or finding a database, hopefully  (kinaida and emma);
-devising and implementing a preprocessing pipeline (kinaida);
-devising and coding contexts (time of the year, time of day, what's been said before, holidays coming up,...) and states (unchanging information about the patient: time spend sober, birthday/age, likes/dislikes,...);
-machine learning of probabilities for tags;
-writing and tagging creative answers implementing the mantras (kinaida and emma); 
-writing a report (kinaida and emma);
-making a powerpoint (kinaida and emma);
-presenting it (kinaida and emma)
+###tasks: 
+- finding a database of conversations annotating it for intents (emma);
+- adding our own addiction specific intents;
+- adding our own addiction specific conversational pieces by writing and tagging them ourselves with reference to online forums or finding a database, hopefully  (kinaida and emma);
+- devising and implementing a preprocessing pipeline (kinaida);
+- devising and coding contexts (time of the year, time of day, what's been said before, holidays coming up,...) and states (unchanging information about the patient: time spend sober, birthday/age, likes/dislikes,...);
+- machine learning of probabilities for tags;
+- writing and tagging creative answers implementing the mantras (kinaida and emma); 
+- writing a report (kinaida and emma);
+- making a powerpoint (kinaida and emma);
+- presenting it (kinaida and emma)
 
 
 Sun April 25: preprocessing pipeline, conversations written, training data and making sure of a fitting database
