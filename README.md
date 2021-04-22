@@ -20,7 +20,7 @@ https://www.waysidehouse.net/10-positive-mantras-get-started-sobriety/ (everyday
 https://www.alcoholrehabguide.org/blog/5-best-recovery-mantras/
 
 ## A tentative list of milestones for the project
-###tasks: 
+### tasks: 
 - finding a database of conversations annotating it for intents (emma);
 - adding our own addiction specific intents;
 - adding our own addiction specific conversational pieces by writing and tagging them ourselves with reference to online forums or finding a database, hopefully  (kinaida and emma);
